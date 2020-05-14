@@ -1,3 +1,3 @@
 # exemple
 
-I love :pizza and :coffee
+I love :pizza: and :coffee:
